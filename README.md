@@ -1,7 +1,7 @@
 # Fetch.ai Labs
 
 Welcome to Fetch.ai Labs! Apps developed using the [Fetch.ai](https://fetch.ai)’s
-AI Engine, [uAgent](https://github.com/fetchai/uagent) library, Agentverse and DeltaV. This repository serves as a collection of various projects developed by [Fetch.ai Labs](labs.fetch.ai) .
+AI Engine, [uAgent](https://github.com/fetchai/uagents) library, Agentverse and DeltaV. This repository serves as a collection of various projects developed by [Fetch.ai Labs](labs.fetch.ai) .
 
 ## Projects
 
