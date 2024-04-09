@@ -53,7 +53,7 @@ You can view detailed information about each agent, including its code, logs, an
 
 ## Troubleshooting
 
-If you encounter any issues during the agent creation process or need further assistance, please contact our support team at [support@blockagent.com](mailto:support@blockagent.com).
+If you encounter any issues during the agent creation process or need further assistance, please feel free to raise issues [here](https://github.com/fetchai/fetchai-labs/issues) .
 
 ## Conclusion
 
