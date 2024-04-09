@@ -2,6 +2,8 @@
 
 Service Marketplace is a platform that seamlessly integrates with Agentverse, Google Calendar, WhatsApp, and DeltaV to provide users with a comprehensive solution for managing their events, bookings, and services. Users can onboard using their Google account, grant access to their Agentverse and Google Calendar accounts, and verify their WhatsApp number. Once onboarded, users can create events in their Google Calendar, which are then read by their agent. The agent notifies users on WhatsApp about relevant events and assists in finding and booking services. The platform utilizes the Dorado network and FET for seamless payment integration, deducting 0.001 FET from the user's wallet for each session. With a user-friendly interface and intelligent AI engine, Service Marketplace offers a convenient and efficient solution for users to manage their schedules and bookings effortlessly.
 
+![Service MarketPlace Daiagram](https://github.com/fetchai/fetchai-labs/blob/5fa280045278c9883dddbc559397836accca24dc/ServiceMarketPlace/media/smp-dfd.jpg)
+
 ## Guide:
 
 ### Prerequisites
