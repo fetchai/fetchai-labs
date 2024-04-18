@@ -80,3 +80,8 @@ A session refers to the timeframe between the start and reset of a conversation 
 📅 **Booking Dashboard**: Stay organized with a centralized dashboard for all your bookings, including ratings received/given.
 
 👩‍💼 **Agent Profile**: Gain insights into your running agents, including agent address, wallet details, and transaction history.
+
+
+## Troubleshooting
+
+If you encounter any issues while accessing or need further assistance, please feel free to raise issues [here](https://github.com/fetchai/fetchai-labs/issues/new?assignees=coderlktripathi&amp;labels=ServiceMarketPlace&amp;projects=&amp;template=bug-report.md&amp;title=%5BBUG%5D).
